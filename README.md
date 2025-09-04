@@ -54,7 +54,7 @@ HeartLine is a full-stack **Blog Application** that allows users to create, publ
 ## 📸 Screenshots  
 
 ### 🔑 Authentication  
-![Register](https://github.com/user-attachments/assets/63ac04fc-cd2b-473e-aa50-3063dcf5e306)  
+![Register](https://github.com/user-attachments/assets/35315c3d-2a7f-4762-9823-828ca5cfc681)  
 ![Login](https://github.com/user-attachments/assets/ADjxVWc6K4QEVPWriQGZfe)  
 
 ### 📰 Blog Feed  
@@ -65,6 +65,7 @@ HeartLine is a full-stack **Blog Application** that allows users to create, publ
 
 ### 📄 Single Blog View  
 ![Single Blog](https://github.com/user-attachments/assets/C6jy1CWtwxh1hr7w2Cnoyr)  
+
 
 ---
 
