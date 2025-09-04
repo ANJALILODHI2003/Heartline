@@ -58,19 +58,19 @@ HeartLine is a full-stack **Blog Application** that allows users to create, publ
 ---
 
 ## 📸 Screenshots  
-
 ### 🔑 Authentication  
 ![Register](screenshots/Register.png)  
 ![Login](screenshots/login.png)  
 
 ### 📰 Blog Feed  
-![Blog Feed](screenshots/blog-feed.png)  
+![Blog Feed](screenshots/Screenshot-2025-09-05-011127.png)  
 
 ### ✍️ Write Blog  
-![Write Blog](screenshots/write-blog.png)  
+![Write Blog](screenshots/Screenshot-2025-09-05-011146.png)  
 
 ### 📄 Single Blog View  
-![Single Blog](screenshots/single-blog.png)  
+![Single Blog](screenshots/Screenshot-2025-09-05-011652.png)  
+
 
 ---
 
