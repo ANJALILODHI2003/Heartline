@@ -50,37 +50,21 @@ HeartLine is a full-stack **Blog Application** that allows users to create, publ
 
 ---
 
-## 🌐 Deployment  
-- **Frontend:** Vercel / Netlify  
-- **Backend + Database:** Railway (MySQL)  
-- **Images:** Cloudinary  
 
----
-
-## 📸 Screenshots  
 ## 📸 Screenshots  
 
 ### 🔑 Authentication  
-![Register](screenshots/Register.png)  
-![Login](screenshots/login.png)  
+![Register](https://github.com/user-attachments/assets/63ac04fc-cd2b-473e-aa50-3063dcf5e306)  
+![Login](https://github.com/user-attachments/assets/ADjxVWc6K4QEVPWriQGZfe)  
 
 ### 📰 Blog Feed  
-![Blog Feed](screenshots/blog-feed.png)  
+![Blog Feed](https://github.com/user-attachments/assets/KnB5vFvc6jHyXahNyvxMHd)  
 
 ### ✍️ Write Blog  
-![Write Blog](screenshots/write-blog.png)  
+![Write Blog](https://github.com/user-attachments/assets/1rf5HaaPP8c9AiuKKsQ7QK)  
 
 ### 📄 Single Blog View  
-![Single Blog](screenshots/single-blog.png)  
-
-
-
+![Single Blog](https://github.com/user-attachments/assets/C6jy1CWtwxh1hr7w2Cnoyr)  
 
 ---
 
-## ⚡ How to Run Locally  
-
-1. Clone the repository  
-   ```bash
-   git clone <repo-url>
-   cd blog-app
